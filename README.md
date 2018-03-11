@@ -34,9 +34,8 @@
 * [std, primitives and preludes](source/docs/d7.std_primitives_and_preludes.md)
 
 ---
-
-This is based on the posts I wrote on **Medium**, https://medium.com/learning-rust and http://learning-rust.github.io
-
-[![Rust Playground](source/docs/images/learning_rust_medium.jpg)](https://medium.com/learning-rust)
+* Site : http://learning-rust.github.io
+* Medium: https://medium.com/learning-rust
+* Gitbook: https://www.gitbook.com/book/learning-rust/book
 
 > 🐣 I am a **Sri Lankan** 🇱🇰 Web Developer who lives in **Vietnam** 🇻🇳. So I am not a native English speaker and just learning Rust, If you found any mistake or something need to be changed, even a spelling or a grammar mistake, feel free to create a pull request. Thanks.
